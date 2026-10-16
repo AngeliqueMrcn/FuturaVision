@@ -1,0 +1,8 @@
+services:
+  pacman-server:
+    build: .
+    container_name: pacman-server
+    ports:
+      # --- À REMPLIR : "PORT_HOTE:PORT_CONTENEUR" (ex: "7777:7777") ---
+      - "À_REMPLIR"
+    restart: unless-stopped

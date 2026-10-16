@@ -1,0 +1,11 @@
+.git
+.gitignore
+*.md
+node_modules
+Library/
+Temp/
+Logs/
+Assets/
+ProjectSettings/
+Packages/
+*.cs
